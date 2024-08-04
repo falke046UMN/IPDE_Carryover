@@ -1,0 +1,12 @@
+pid,d1,d2,t1,t2,status1,status2
+1,1,1,0,28,enter,done
+2,1,1,10,38,enter,done
+3,1,1,20,48,enter,escalate
+3,2,2,48,76,escalate,done
+4,2,2,50,65,enter,dlt
+5,2,2,60,88,enter,done
+mtd,3,3,28,65,,
+mtd,3,1,65,65,,
+mtd,1,1,65,76,,
+mtd,1,2,76,76,,
+mtd,2,2,76,90,,
